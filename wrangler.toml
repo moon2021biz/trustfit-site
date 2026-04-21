@@ -1,0 +1,6 @@
+# Cloudflare Pages — TrustFit
+# デプロイコマンド: npx wrangler pages deploy . --project-name trustfit
+
+name = "trustfit"
+compatibility_date = "2026-04-14"
+pages_build_output_dir = "."
